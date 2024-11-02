@@ -1,0 +1,6 @@
+# Install necessary libraries
+!pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+!pip install transformers diffusers
+!pip install accelerate
+!pip install pillow
+!pip install gradio
